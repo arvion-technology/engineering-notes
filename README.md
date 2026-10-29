@@ -1,6 +1,6 @@
 # Engineering notes
 
-Dated notes from the Arvion Technologies studio in Kathmandu — what we changed,
+Dated notes from the Arvion Technologies studio in Kathmandu, what we changed,
 what broke, and the decisions that took longer than the code. These are working
 notes, not a blog: short entries, written the day they happened.
 
